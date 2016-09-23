@@ -3,4 +3,4 @@ This is a quick example application that shows what happens if you use the Java 
 
 When you submit the newly generated work item to an ExecutorCompletionService using as a Callable, the task will not operate properly / will not notify of state changes / will block indefinitely.
 
-Absolutely Brilliant.... 
+http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8166449
