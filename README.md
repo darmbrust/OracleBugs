@@ -4,3 +4,6 @@ This is a quick example application that shows what happens if you use the Java 
 When you submit the newly generated work item to an ExecutorCompletionService using as a Callable, the task will not operate properly / will not notify of state changes / will block indefinitely.
 
 http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8166449
+
+Now, also documenting a second bug... where ThreadPoolExecutors don't work right with JavaFX Tasks.
+
