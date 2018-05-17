@@ -12,6 +12,10 @@ import javafx.embed.swing.JFXPanel;
 
 public class RunTest2
 {
+	/**
+	 * 
+	 * https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8203276
+	 */
 	public static void main(String[] args) throws InterruptedException, ExecutionException
 	{
 		new JFXPanel();  //start javafx / task API code (why oh why does the Task API require JavaFX to be up?)

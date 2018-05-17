@@ -5,5 +5,5 @@ When you submit the newly generated work item to an ExecutorCompletionService us
 
 http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8166449
 
-Now, also documenting a second bug... where ThreadPoolExecutors don't work right with JavaFX Tasks.
+Now, also documenting a second bug... where ThreadPoolExecutors don't work right with JavaFX Tasks.  https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8203276
 
